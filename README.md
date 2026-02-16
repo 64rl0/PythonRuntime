@@ -14,7 +14,7 @@ This project produces standalone, redistributable builds of Python.
 | macOS | macos14<br>(Sonoma) | arm64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.9.1 | ⏳<br>≤ 3.8.10 | ❌ |
 | AL2023 | AL2023 | x86-64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.7.6 |
 | AL2023 | AL2023 | aarch64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.7.6 |
-| AL2 | AL2 | x86-64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.7.1 |
+| AL2 | AL2 | x86-64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
