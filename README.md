@@ -12,6 +12,7 @@ This project produces standalone, redistributable builds of Python.
 | macOS | macos26<br>(Tahoe) | arm64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.9.1 | ⏳<br>≤ 3.8.10 | ❌ |
 | macOS | macos15<br>(Sequoia) | arm64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.9.1 | ⏳<br>≤ 3.8.10 | ❌ |
 | macOS | macos14<br>(Sonoma) | arm64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.9.1 | ⏳<br>≤ 3.8.10 | ❌ |
+| CentOS 9 | CentOS 9 | x86-64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.7.6 |
 | AL2023 | AL2023 | x86-64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.7.6 |
 | AL2023 | AL2023 | aarch64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳<br>≤ 3.7.6 |
 | AL2 | AL2 | x86-64 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
