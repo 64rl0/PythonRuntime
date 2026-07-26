@@ -3,7 +3,7 @@
 ### Python Standalone Builds
 This project produces standalone, redistributable builds of Python.
 
-https://devguide.python.org/versions/#versions
+https://devguide.python.org/versions
 
 ---
 
